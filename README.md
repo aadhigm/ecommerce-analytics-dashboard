@@ -26,3 +26,7 @@ This project analyzes e-commerce sales data to identify trends, customer behavio
 - Category & region analysis
 - Customer insights
 - Interactive filters
+
+- ## Dashboard Preview
+
+![Dashboard](Dashboard.png)
